@@ -108,7 +108,7 @@ You are free to use, modify, and distribute this software under the terms of the
 
 **The Benn**
 
-- GitHub: [@TheBenn](https://github.com/TheBenn)
+- GitHub: [@TheBenn](https://github.com/BMKoscak)
 
 ---
 
@@ -121,3 +121,4 @@ If you found Caelum useful, give it a ⭐ on GitHub — it helps others discover
 <p align="center">
   <sub>Built with ☕ Java & ❤️ by The Benn</sub>
 </p>
+
